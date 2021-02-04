@@ -1,7 +1,12 @@
 body {
-    background-color: pink;
+    background-color: hotpink;
+    width: 100vw;
 }
 
 h1 {
-    margin: 0 auto;
+    padding-top: 2rem;
+    text-align: center;
+    color: pink;
+    font-size: 3rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
